@@ -1,21 +1,21 @@
 # Cross-course project - Rainydays
 ![velvety-kleicha-4852d5 netlify app-Rainydays-Homepage](https://github.com/NORtacus/Portofolio/assets/99845204/da636be0-9609-4b06-a9ee-d9f620c7b9d8)
+Screenshot / overview of the project.
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
-
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+In this project, we were supposed to program a website for a website that sells rain clothes. First, we were to create the design of the website in Adobe XD and then use html, css and javascript.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+List of stacks I have used
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- [Adobe XD](https://en.wikipedia.org/wiki/Adobe_XD)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [JS](https://en.wikipedia.org/wiki/JavaScript)
+- [WordPress REST API](https://developer.wordpress.org/rest-api/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Netlify](https://www.netlify.com/)
 
 ## Getting Started
 
@@ -47,20 +47,12 @@ npm run start
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+Thanks to the teachers and their help to us students in this project.
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+[My LinkedIn page](https://www.linkedin.com/in/david-r-%C3%B8degaard-604a05234/)
 
-[My Twitter page](www.twitter.com)
+[Mail](nortacus@yahoo.com)
 
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+[Linktree](https://linktr.ee/nortacus)
