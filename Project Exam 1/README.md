@@ -1,4 +1,4 @@
-# Cross-course project - Rainydays
+# Project Exam 1 - David's Travel Blog
 ![joyful-sherbet-087d3f netlify app-David’sTravelBlog-Homepage](https://github.com/NORtacus/Portofolio/assets/99845204/b93550a9-fb42-4bb3-ac5f-c57c01f69d15)
 
 Screenshot / overview of the project.
