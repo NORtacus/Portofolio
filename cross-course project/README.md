@@ -32,7 +32,10 @@ git clone (https://github.com/NORtacus/Portofolio/tree/973aec4da5eabaf9ee88856f6
 ```
 npm install
 ```
-
+or
+```
+Download .zip or open with github desktop and open in VS with Live Server Preview.
+```
 ### Running
 
 ```bash
